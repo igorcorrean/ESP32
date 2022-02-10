@@ -14,3 +14,5 @@ instalar os drivers de comunicação USB para UART CP210x (https://www.silabs.co
 É possível fazer a atualização dos dados gravados na memória de maneira remota através de um web server, utilizando uma rede Wi-Fi ou via bluetooth. É comumente utilizada
 a expressão Over-the-air.O blog lastminuteengineer possui um tutorial onde ele ensina em 3 etapas como utilizar o OTA Web Updater com ESP32 (https://lastminuteengineers.com/esp32-ota-web-updater-arduino-ide/)
  utilizando o Arduino IDE e a rede Wi-Fi.
+
+![image](https://user-images.githubusercontent.com/82456282/153331866-f3e48648-8914-4795-8469-d20fdfa64d89.png)
