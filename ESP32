@@ -1,3 +1,6 @@
 O objetivo é sintetizar o conhecimento em ESP32(o modelo utilizado é o ESP32-WROOM KIT V1) mantendo um registro que pode ser útil posteriormente.
 
-Arquivos que auxiliam a entender o funcionamento da placa de desenvolvimento também estarão disponíveis neste repositório.
+Para que o USB do Windows 11 (Sistema Operacional que estou utilizando no momento)reconheça e se comunique corretamente com o ESP32 é necessário 
+instalar os drivers de comunicação USB para UART CP210x (https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers).
+
+Para implementar um código no dispositivo ESP32 via USB pode-se utilizar a IDE do Arduino ou o ESP-IDF, feito pela Espressif.
